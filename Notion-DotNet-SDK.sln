@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notion-DotNet-SDK.Tests", "Notion-DotNet-SDK.Tests\Notion-DotNet-SDK.Tests.csproj", "{8664D303-06DF-41A4-9778-89D79D2B7B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notion-DotNet-SDK.Api", "Notion-DotNet-SDK.Api\Notion-DotNet-SDK.Api.csproj", "{180B5154-9B1D-4EA3-933C-BC0FEC66EA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notion-DotNet-SDK.ApiContracts", "Notion-DotNet-SDK.ApiContracts\Notion-DotNet-SDK.ApiContracts.csproj", "{51F5BD01-2EFD-4581-90D6-4794FAA23FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8664D303-06DF-41A4-9778-89D79D2B7B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8664D303-06DF-41A4-9778-89D79D2B7B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8664D303-06DF-41A4-9778-89D79D2B7B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8664D303-06DF-41A4-9778-89D79D2B7B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180B5154-9B1D-4EA3-933C-BC0FEC66EA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180B5154-9B1D-4EA3-933C-BC0FEC66EA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180B5154-9B1D-4EA3-933C-BC0FEC66EA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180B5154-9B1D-4EA3-933C-BC0FEC66EA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F5BD01-2EFD-4581-90D6-4794FAA23FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F5BD01-2EFD-4581-90D6-4794FAA23FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F5BD01-2EFD-4581-90D6-4794FAA23FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F5BD01-2EFD-4581-90D6-4794FAA23FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57219410-CE5B-49EA-B3F1-0A2CC1FA6F78}
+	EndGlobalSection
+EndGlobal
